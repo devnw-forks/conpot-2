@@ -9,7 +9,7 @@ sphinx
 libtaxii>=1.1.0
 crc16
 natsort
-scapy==2.4.5
+scapy==2.7.0rc1
 hpfeeds3
 modbus-tk
 stix-validator
@@ -26,6 +26,6 @@ tftpy
 # some freezegun versions broken
 freezegun!=0.3.13
 pytest
-cryptography==3.4.8
+cryptography==46.0.5
 sphinx_rtd_theme
 psutil
